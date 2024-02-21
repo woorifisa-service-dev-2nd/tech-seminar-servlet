@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e912296c-d03f-4007-bd60-c9b03a5331d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/controller/OwnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/controller/OwnerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/dto/OwnerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/dto/OwnerListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/dto/OwnerSaveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/dto/PetDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/model/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/model/Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/repository/OwnerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/repository/PetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/service/OwnerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petclinic_starting/petclinic/src/main/java/dev/spring/petclinic/service/OwnerProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/member-ddl.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/java/dev/boot/simplespringboot/model/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/simplespringboot/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/main/java/dev/testing/springboot/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17.springboot/unit-testing/src/test/java/dev/testing/springboot/controller/EmployeeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/main/java/dev/syntax/aop/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/main/java/dev/syntax/aop/SimpleAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/main/java/dev/syntax/aop/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/main/java/dev/syntax/aop/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step01simpleaop/src/test/java/dev/syntax/aop/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/main/java/dev/pattern/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/main/java/dev/pattern/step01beforeproxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/main/java/dev/pattern/step01beforeproxy/HelloTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/main/java/dev/pattern/step02proxywithpurejava/HelloUppercaseProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/main/java/dev/pattern/step03dynamicproxy/UppercaseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step02proxypattern/src/test/java/dev/pattern/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/aspect/TransactionAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/config/BeanConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/controller/CoffeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/main/java/dev/syntax/aop/model/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.spring-aop/step03loggingaop/src/test/java/dev/syntax/aop/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/controller/StatusController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/controller/VetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/dto/StatusResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/model/Vet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/repository/VetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20.be-exam/ex2/simpleapi/src/main/java/dev/fisa/test/simpleapi/repository/VetService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cRG79kQroNDowqE9XG8fjxxEW6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/woori_workspace/16.spring-mvc/step02mvcbasic"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-temurin-11.0.21-4caba194b151-7ac2705d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e912296c-d03f-4007-bd60-c9b03a5331d5" name="Changes" comment="" />
+      <created>1708066807328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708066807328</updated>
+    </task>
+    <servers />
+  </component>
+</project>
